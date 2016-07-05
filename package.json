@@ -1,0 +1,25 @@
+{
+  "name": "snarl-wine-lookup",
+  "version": "0.1.0",
+  "description": "Wine lookup plugin for snarl, the chatbot for Slack.",
+  "main": "wine-lookup.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naterchrdsn/snarl-wine-lookup.git"
+  },
+  "keywords": [
+    "snarl",
+    "plugin",
+    "slack",
+    "slackbot",
+    "chat",
+    "bot",
+    "chatbot"
+  ],
+  "author": "Nate Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naterchrdsn/snarl-wine-lookup/issues"
+  },
+  "homepage": "https://github.com/naterchrdsn/snarl-wine-lookup"
+}
